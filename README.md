@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Grace Victorious
+## Romans 5
 
-[![Build status](https://api.travis-ci.com/sermons/reveal-skel.svg)](https://travis-ci.com/github/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://api.travis-ci.com/sermons/grace.svg)](https://travis-ci.com/github/sermons/grace)
+[![Node deps](https://david-dm.org/sermons/grace.svg)](https://david-dm.org/sermons/grace)
+[![Node devDeps](https://david-dm.org/sermons/grace/dev-status.svg)](https://david-dm.org/sermons/grace?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
