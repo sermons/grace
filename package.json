@@ -1,0 +1,107 @@
+{
+  "name": "@sermons/reveal-skel",
+  "repository": "sermons/reveal-skel",
+  "description": "A template for Reveal.js-based presentations",
+  "keywords": [
+    "slides"
+  ],
+  "version": "2.2.3",
+  "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
+  "config": {
+    "pretty_url": "",
+    "cname": "reveal-skel.seanho.com",
+    "multiplex": {
+      "url": "https://mp.seanho.com/",
+      "id": "22bc761ffc97809b"
+    },
+    "git": {
+      "name": "Sean Ho",
+      "email": "travis@seanho.com"
+    },
+    "history": [
+      {
+        "venue": "Venue of talk",
+        "city": "Location",
+        "date": "2000-01-01",
+        "duration": 0
+      }
+    ],
+    "slides": [
+      "sample.md"
+    ],
+    "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0",
+    "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js",
+    "css": [
+      {
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/fontawesome.min.css",
+        "integrity": "sha256-CuUPKpitgFmSNQuPDL5cEfPOOJT/+bwUlhfumDJ9CI4="
+      },
+      {
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/solid.min.css",
+        "integrity": "sha256-pIAzc/BIIo/hSvtNEDIiMTBtR9EfK3COmnH2pt8cPDY="
+      },
+      {
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/brands.min.css",
+        "integrity": "sha256-wfbbsQFYKnizQi/WLPXS3wVDu0Dpi2yUQpZBDsb2H1s="
+      },
+      {
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/reveal.min.css",
+        "integrity": "sha256-OxiHrn+gXudPDHxTvXiQzeFjZU/FllSSPmOOYAZ1O/g="
+      },
+      {
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/atom-one-dark.min.css",
+        "integrity": "sha256-91Q4dP2FrFQCLpK/8fPlQyatehNmhUOXKRFM1CtE7Sw="
+      }
+    ],
+    "js": [
+      {
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js",
+        "integrity": "sha256-Uv3H6lx7dJmRfRvH8TH6kJD1TSK1aFcwgx+mdg3epi8="
+      },
+      {
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.slim.js",
+        "integrity": "sha256-Dul4c09cdrWKXVtallPxF558lwxMwCC8dXJdZ0PVW54="
+      },
+      {
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/js/reveal.min.js",
+        "integrity": "sha256-pv4AarTAzSO6lz+bbMPwmV29XMjkzmFOn601b2pWqXE="
+      },
+      {
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/marked/1.1.0/marked.min.js",
+        "integrity": "sha256-POA+Q3FC8tyo/jZhQrw40H5mKcWAABdxNeUQ/uhIm4U="
+      },
+      {
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/plugin/markdown/markdown.min.js",
+        "integrity": "sha256-p6zZf7+dsrD1lcLQCXRgmXAAMyr9pWWCP4a9KfB0klE="
+      }
+    ],
+    "plugins": [
+      "math/math.min.js",
+      "highlight/highlight.min.js"
+    ]
+  },
+  "license": "CC-BY-SA-4.0",
+  "private": true,
+  "dependencies": {
+    "reveal.js": "^3.8.0",
+    "highlight.js": "^10.1.1",
+    "socket.io": "^2.3.0",
+    "marked": "^1.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.2.1",
+    "coffeescript": "^2.5.1",
+    "load-grunt-tasks": "^5.1.0",
+    "grunt-contrib-connect": "^3.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "node-sass": "^4.14.1",
+    "grunt-sass": "^3.1.0",
+    "grunt-exec": "^3.0.0",
+    "qrcode": "^1.4.4",
+    "decktape": "^3.0.0"
+  },
+  "scripts": {
+    "postinstall": "grunt install",
+    "test": "grunt test"
+  }
+}

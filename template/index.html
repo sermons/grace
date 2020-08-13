@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title><%= pkg.description %></title>
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
+    <link rel=icon href="favicon.svg" sizes="any" type="image/svg+xml" />
+
+    <% pkg.config.css.forEach( function(css) { %>
+    <link rel="stylesheet" href="<%= css.href %>" integrity="<%= css.integrity %>" crossorigin="anonymous" />
+    <% } ) %>
+
+    <link rel="stylesheet" href="css/boldblack.css" id="theme" />
+    <link rel="stylesheet" href="css/slides.css" />
+
+  </head>
+  <body>
+    <div class="reveal">
+
+      <noscript><div class="noscript">
+        <h1><%= pkg.description %></h1>
+        <p>(Please see PDF link below)</p>
+      </div></noscript>
+
+      <div class="slides">
+        <% pkg.config.slides.forEach( function(md) { %>
+        <section data-markdown data-charset="utf8"
+          data-separator="^---[-\s]*$"
+          data-separator-vertical="^\*\*\*[\*\s]*$"
+          data-separator-notes="^>>>[>\s]*$">
+          <textarea data-template>
+        <%= grunt.template.process(grunt.file.read('slides/' + md)) %>
+          </textarea>
+        </section>
+        <% } ) %>
+      </div>
+
+      <div id="footer"><%= pkg.config.pretty_url %>
+        <span class="links">
+          <a href="<%= pkg.shortname %>.pdf">
+            <i class="fas fa-file-pdf"></i></a>
+	  <a href="<%= process.env.TRAVIS_BUILD_WEB_URL %>">
+            <i class="fas fa-hammer"></i></a>
+        </span>
+        <span class="commit">
+          <a href="https://github.com/<%= pkg.repository %>/commit/<%= pkg.commit %>"><%= pkg.commit %></a>
+	</span>
+      </div>
+
+    </div>
+
+    <% pkg.config.js.forEach( function(js) { %>
+    <script src="<%= js.src %>" integrity="<%= js.integrity %>" crossorigin="anonymous"></script>
+    <% } ) %>
+
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        SVG: { scale: 77 }
+      });
+    </script>
+
+    <script>
+      Reveal.initialize({
+        display: 'flex',
+        maxScale: 4.0,
+        slideNumber: 'c/t',
+        controlsTutorial: false,
+        viewDistance: 40,
+
+        markdown: {
+          smartypants: true
+        },
+
+        math: {
+          mathjax: '<%= pkg.config.mathjax %>',
+          config: 'AM_SVG'
+        },
+
+        multiplex: {
+          url: '<%= pkg.config.multiplex.url %>',
+          id : '<%= pkg.config.multiplex.id  %>',
+          secret: Reveal.getQueryHash().s || null
+        },
+
+        dependencies: [
+          { src: Reveal.getQueryHash().s ? '<%= pkg.config.reveal %>/plugin/multiplex/master.min.js' : '<%= pkg.config.reveal %>/plugin/multiplex/client.min.js', async:true }
+        ]
+      });
+    </script>
+
+    <% pkg.config.plugins.forEach( function(js) { %>
+    <script src="<%= pkg.config.reveal + "/plugin/" + js %>" crossorigin="anonymous"></script>
+    <% } ) %>
+    <script src="js/notes.js"></script>
+
+    <script>
+      hljs.initHighlightingOnLoad();
+    </script>
+
+  </body>
+</html>

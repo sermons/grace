@@ -1,0 +1,57 @@
+/**
+ * Black theme for reveal.js
+ *
+ * Sean Ho, http://seanho.com
+ * Original black.css by Hakim El Hattab, http://hakim.se
+ */
+
+// Default mixins and settings -----------------
+@import "template/mixins";
+@import "template/settings";
+// ---------------------------------------------
+
+// Include theme-specific fonts
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+@import "_cwtexkai";
+
+// Override theme settings (see template/settings.scss)
+$mainFont: 'Source Sans Pro', 'cwTeXKai', Helvetica, sans-serif;
+$headingFont: 'Source Sans Pro', 'cwTeXKai', Helvetica, sans-serif;
+
+// Colors
+$backgroundColor: #222;
+$mainColor: #fff;
+$headingColor: #fff;
+
+section.has-light-background {
+  &, h1, h2, h3, h4, h5, h6 {
+    color: #222;
+  }
+}
+
+// Sizes
+html { font-size: 48px }
+$mainFontSize: 1.0rem;
+
+$heading1Size: 2.4rem;
+$heading2Size: 1.6rem;
+$heading3Size: 1.2rem;
+$heading4Size: 1.0rem;
+
+// Headings
+$headingFontWeight: bold;
+$headingTextTransform: none;
+
+// Links
+$linkColor: #42affa;
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+// Theme template ------------------------------
+@import "template/theme";
+// ---------------------------------------------
+
+// Overrides
+.reveal section img {
+  border: 1px solid rgba( $mainColor, 0.15 );
+}
