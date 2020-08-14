@@ -37,58 +37,64 @@ and we **rejoice** in hope of the glory of God.
 + "rejoice": **boast**, pride in future **hope**
 
 ---
-3
- Not only that, but we rejoice in our **sufferings**, 
+Not only that, but we rejoice in our **sufferings**, 
 knowing that suffering produces **endurance**, 
-4
- and endurance produces **character**, 
+[4](# "ref")
+and endurance produces **character**, 
 and character produces **hope**, 
-5
- and hope does not put us to shame, 
+[5](# "ref")
+and hope does not put us to shame, 
 
 because God's **love** has been poured into our hearts 
 through the Holy Spirit who has been given to us.
 
+[Romans 5:3-5 (ESV)](# "ref")
+
+>>>
+
 ---
-6
 For while we were still weak, 
 at the right time **Christ died** for the ungodly. 
 
-7 
+[7](# "ref")
 For one will scarcely die for a **righteous** person
 -- though perhaps for a good person 
 one would dare even to die --
 
-8 
+[8](# "ref")
 but God shows his **love** for us in that 
 while we were still **sinners**, Christ died for us. 
+
+[Romans 5:6-8 (ESV)](# "ref")
 
 >>>
 + v7: not **contrast** but **appositive**
 + emph contrast w/v6/8: for the **ungodly**, sinners
 
 ---
-9 
 Since, therefore, we have now been 
 **justified** by his blood, much more shall we be 
 **saved** by him from the **wrath** of God. 
 
-10 
+[10](# "ref")
 For if while we were enemies we were 
 **reconciled** to God by the death of his Son, 
 
 much more, now that we are reconciled, 
 shall we be **saved** by his life. 
 
+[Romans 5:9-10 (ESV)](# "ref")
+
 >>>
 + reconciled wrt **debt** owed to God
 + saved from God's righteous **wrath**: ch1, 3
 
 ---
-11 
 More than that, we also **rejoice** in God 
 through our Lord Jesus Christ, 
 through whom we have now received reconciliation.
+
+[Romans 5:11 (ESV)](# "ref")
 
 >>>
 + not just settled debts, but **boast**
@@ -96,11 +102,12 @@ through whom we have now received reconciliation.
   + who **bought** our reconciliation
 
 ---
-12 
 Therefore, just as **sin** came into the world 
 through one **man**, and **death** through sin, 
 
 and so death spread to **all** men because all sinned -- 
+
+[Romans 5:12 (ESV)](# "ref")
 
 >>>
 + **just as** sin came to world,
@@ -111,11 +118,12 @@ and so death spread to **all** men because all sinned --
 + not just **Adam's** fault, **all** have sinned
 
 ---
-13 
 for **sin** indeed was in the world 
 **before** the law was given, 
 
 but sin is not **counted** where there is no law. 
+
+[Romans 5:13 (ESV)](# "ref")
 
 >>>
 + studying Bible helps us **realize** how we've sinned
@@ -124,12 +132,13 @@ but sin is not **counted** where there is no law.
   + so should be **ok**
 
 ---
-14 
 Yet **death reigned** from Adam to Moses, 
 
 even over those whose sinning was 
 not like the transgression of Adam, 
 who was a type of the one who was to come.
+
+[Romans 5:14 (ESV)](# "ref")
 
 >>>
 + Adam had direct **command** from God
@@ -145,7 +154,6 @@ who was a type of the one who was to come.
   + **sin** + death still reigns in heart
 
 ---
-15 
 But the free **gift** is not like the trespass. 
 
 For if many **died** through one man's trespass, 
@@ -154,12 +162,13 @@ much more have the **grace** of God
 and the free gift by the grace of that 
 one man Jesus Christ **abounded** for many. 
 
+[Romans 5:15 (ESV)](# "ref")
+
 >>>
 + (1) God's grace is **bigger** than death from sin
 + "abounds": surpass, **exceed** normal, overflow
 
 ---
-16 
 And the free gift is not like 
 the result of that **one man's sin**. 
 
@@ -169,13 +178,14 @@ brought condemnation,
 but the free gift following **many trespasses**
 brought justification. 
 
+[Romans 5:16 (ESV)](# "ref")
+
 >>>
 + (2) God's grace covers over **all** our sins
 + "The gift is not as through one man's sin"
 + one vs **many**
 
 ---
-17 
 For if, because of one man's trespass, 
 **death reigned** through that one man, 
 
@@ -183,25 +193,28 @@ much more will **those who receive** the abundance
 of grace and the free gift of righteousness 
 **reign in life** through the one man Jesus Christ.
 
+[Romans 5:17 (ESV)](# "ref")
+
 >>>
 + (3) God's grace will bring a new **kingdom**
 + operate under rule of **death**: barely surviving
 + **we** will reign bc of Christ's gift
 
 ---
-18 
 Therefore, as **one trespass** led to 
 condemnation for all men, 
 
 so **one act of righteousness** leads to 
 justification and life for all men. 
 
-19 
+[19](# "ref")
 For as by the one man's disobedience 
 the many were **made sinners**, 
 
 so by the one man's obedience 
 the many will be **made righteous**. 
+
+[Romans 5:18-19 (ESV)](# "ref")
 
 >>>
 + (4) God's grace changes our **standing** before Him
@@ -209,14 +222,15 @@ the many will be **made righteous**.
 + "made": **set down**, put in place, give position/authority
 
 ---
-20 
 Now the **law** came in to **increase** the trespass, 
 but where **sin** increased, **grace** abounded all the more, 
 
-21 
+[21](# "ref")
 so that, as sin **reigned** in death, 
 grace also might **reign** through righteousness 
 leading to eternal life through Jesus Christ our Lord.
+
+[Romans 5:20-21 (ESV)](# "ref")
 
 >>>
 + being **told** what not to do
