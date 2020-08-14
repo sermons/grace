@@ -95,9 +95,9 @@ as it is written, <br>
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Romans 5: Grace Victorious
-1. **Pride**: in Future Hope + Present Suffering [(1-5)](# "ref")
+1. **Pride**: in Our Future Hope <br> and Present Suffering [(1-5)](# "ref")
 1. **Peace**: in the Father's Love [(6-11)](# "ref")
-1. **Power**: in Grace Greater Than Sin [(12-21)](# "ref")
+1. **Power**: in Grace which <br> Surpasses Sin [(12-21)](# "ref")
 
 >>>
 + Bc of how Christ **saved** us, we're not just **surviving**
@@ -143,8 +143,9 @@ and character produces **hope**, <br>
 [5](# "ref")
 and hope does not put us to shame, 
 
-because God's **love** has been poured into our hearts <br>
-through the Holy Spirit who has been given to us.
+because God's **love** has been poured <br>
+into our hearts through the Holy Spirit <br>
+who has been given to us.
 
 [Romans 5:3-5 (ESV)](# "ref")
 
@@ -209,9 +210,9 @@ and honor at the **revelation** of Jesus Christ.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## Romans 5: Grace Victorious
-1. Pride: in Future Hope + Present Suffering [(1-5)](# "ref")
+1. Pride: in Our Future Hope <br> and Present Suffering [(1-5)](# "ref")
 1. **Peace: in the Father's Love** [(6-11)](# "ref")
-1. Power: in Grace Greater Than Sin [(12-21)](# "ref")
+1. Power: in Grace which <br> Surpasses Sin [(12-21)](# "ref")
 
 >>>
 + But I **hope** and hope that God will
@@ -307,7 +308,7 @@ through whom we have now received **reconciliation**.
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I **know** that the Father **loves** me?
+# How do I **know** <br> that the Father **loves** me?
 
 >>>
 + Bc I'm **lovable**?  Nope!
@@ -323,9 +324,9 @@ through whom we have now received **reconciliation**.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## Romans 5: Grace Victorious
-1. Pride: in Future Hope + Present Suffering [(1-5)](# "ref")
+1. Pride: in Our Future Hope <br> and Present Suffering [(1-5)](# "ref")
 1. Peace: in the Father's Love [(6-11)](# "ref")
-1. **Power: in Grace Greater Than Sin** [(12-21)](# "ref")
+1. **Power: in Grace which** <br> **Surpasses Sin** [(12-21)](# "ref")
 
 >>>
 + In light of the **power** of God's love
@@ -338,7 +339,8 @@ through whom we have now received **reconciliation**.
 Therefore, just as **sin** came into the world <br>
 through one **man**, and **death** through sin, 
 
-and so death spread to **all** men because all sinned -- 
+and so death spread to **all** men <br>
+because all sinned -- 
 
 [Romans 5:12 (ESV)](# "ref")
 
@@ -393,10 +395,10 @@ who was a type of the one who was to come.
 
 ---
 ## 3. Grace Greater than Sin
-1. God's grace far **exceeds** the results of sin [(v15)](# "ref")
+1. God's grace far **exceeds** <br> the consequences of sin [(v15)](# "ref")
 1. Jesus' death covers **all** our sins [(v16)](# "ref")
 1. God's grace will bring a new **kingdom** [(v17)](# "ref")
-1. Christ's obedience changes our **standing** before God [(v18-19)](# "ref")
+1. Christ's obedience changes <br> our **standing** before God [(v18-19)](# "ref")
 
 >>>
 + repeatedly draws **parallel** between
@@ -454,8 +456,9 @@ brought justification.
 For if, because of one man's trespass, <br>
 **death reigned** through that one man, 
 
-much more will **those who receive** the abundance <br>
-of grace and the free gift of righteousness <br>
+much more will **those who receive** <br>
+the abundance of grace and <br>
+the free gift of righteousness <br>
 **reign in life** through the one man Jesus Christ.
 
 [Romans 5:17 (ESV)](# "ref")
@@ -501,7 +504,8 @@ but where **sin** increased, <br>
 [21](# "ref")
 so that, as sin **reigned** in death, <br>
 grace also might **reign** through righteousness <br>
-leading to eternal life through Jesus Christ our Lord.
+leading to eternal life <br>
+through Jesus Christ our Lord.
 
 [Romans 5:20-21 (ESV)](# "ref")
 
