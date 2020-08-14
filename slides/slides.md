@@ -519,4 +519,37 @@ leading to eternal life through Jesus Christ our Lord.
 
 ---
 <!-- .slide: data-background="white" -->
-# 
+# Am I looking for something **more** than God's grace?
+
+>>>
++ Cry out to God: so much **pain**, brokenness, evil
+  + not just in **world**, but even in **my** heart
++ "**Do** something, God!"  **Fix** problem, intervene
++ Underlying: **frustration**, bitterness at God
+  + even sneaking suspicion He doesn't **care**
+  + or is too **far away** to be able to do 
++ Rom5 reminds us God's grace is **sufficient**:
+  + do I **believe** it?
++ Christ's **one** act of obedience **wins** 
+  + over all the **evil** that has broken our world
++ The free **gift** is offered to **all** who would
+  + receive it in **faith**
++ Is that grace **enough**?
+
+---
+<!-- .slide: class="empty" -->
+>>>
++ O Lord, how long shall I cry for help,
+  + and you will not hear?
++ Or cry to you “Violence!” and you will not save?
++ Destruction and violence are before me;
+  + strife and contention arise.
++ So the law is paralyzed,
+  + and justice never goes forth.
++ But the righteous shall live by his faith.
++ The Lord is in his holy temple;
+  + let all the earth keep silence before him.
++ Though the fig tree should not blossom,
+  + nor fruit be on the vines,
++ yet I will rejoice in the Lord;
+  + I will take joy in the God of my salvation.
