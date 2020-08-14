@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> id="title" -->
 # Grace Victorious
 ## Romans 5
 <!-- congregational reading: v1-5 -->
@@ -47,6 +47,7 @@ ______
 + Concise summary of book in **1:16-17**:
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 For I am not ashamed of the **gospel**, <br>
 for it is the **power** of God <br>
 for **salvation** to everyone who believes, <br>
@@ -59,6 +60,7 @@ as it is written, <br>
 “The righteous shall **live by faith**.”
 
 [Romans 1:16-17 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 >>>
 + God's **power** not only in righteous **judgment**
@@ -93,7 +95,7 @@ as it is written, <br>
   + in view of God's **mercies** toward us
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="outline" id="outline" -->
 ## Romans 5: Grace Victorious
 1. **Pride**: in Our Future Hope <br> and Present Suffering [(1-5)](# "ref")
 1. **Peace**: in the Father's Love [(6-11)](# "ref")
@@ -108,6 +110,7 @@ as it is written, <br>
   + God's **grace** abounds over and above
 
 ---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 Therefore, since we have been **justified** by faith,<br>
 we have **peace** with God <br>
 through our Lord Jesus Christ.
@@ -119,6 +122,7 @@ by faith into this **grace** in which we stand,
 and we **rejoice** in hope of the glory of God. 
 
 [Romans 5:1-2 (ESV)](# "ref")
+[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 >>>
 + all 1 **sentence**
@@ -135,6 +139,7 @@ and we **rejoice** in hope of the glory of God.
 + Not only in **future**, but also **present**:
 
 ---
+<!-- .slide: <%= bg("unsplash-saGbrA6s8g0-underwater.jpg") %>  -->
 Not only that, but we rejoice in our **sufferings**, <br>
 knowing that suffering produces **endurance**, <br>
 [4](# "ref")
@@ -148,6 +153,7 @@ into our hearts through the Holy Spirit <br>
 who has been given to us.
 
 [Romans 5:3-5 (ESV)](# "ref")
+[Sven Scheuermeier](https://unsplash.com/photos/saGbrA6s8g0 "caption")
 
 >>>
 + suff: not bc **struggle** to achieve own **goals**
@@ -166,11 +172,13 @@ for a **little while**, if necessary, <br>
 you have been **grieved** by various trials, 
 
 [1 Peter 1:6-7 (ESV) (p.1/2)](# "ref")
+[Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
 + this: being **born again** to living hope
 
 ---
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 so that the **tested genuineness** <br>
 of your faith — more precious than **gold** <br>
 that perishes though it is tested by fire — 
@@ -208,7 +216,7 @@ and honor at the **revelation** of Jesus Christ.
   + When the **evil** is too great
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="outline" -->
 ## Romans 5: Grace Victorious
 1. Pride: in Our Future Hope <br> and Present Suffering [(1-5)](# "ref")
 1. **Peace: in the Father's Love** [(6-11)](# "ref")
@@ -225,6 +233,7 @@ and honor at the **revelation** of Jesus Christ.
 + The assurance is **manner** in which God loved us:
 
 ---
+<!-- .slide: <%= bg("wm-Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg") %> -->
 For while we were still weak, <br>
 at the right time **Christ died** for the ungodly. 
 
@@ -234,6 +243,7 @@ For one will scarcely die for a **righteous** person<br>
 one would dare even to die --
 
 [Romans 5:6-7 (ESV)](# "ref")
+["The stoning of St. Stephen", Gabriel-Jules Thomas, 1863. Paris](https://commons.wikimedia.org/wiki/File:Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg)
 
 >>>
 + v7: not **contrast** but **appositive**:
@@ -244,10 +254,12 @@ one would dare even to die --
 + emph contrast w/v6/8: for the **ungodly**, sinners
 
 ---
+<!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
 but God shows his **love** for us in that <br>
 while we were still **sinners**, Christ died for us. 
 
 [Romans 5:8 (ESV)](# "ref")
+[Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
 
 >>>
 + God did not **wait** for us to become worthy
@@ -261,6 +273,7 @@ while we were still **sinners**, Christ died for us.
 + What more **proof** are we looking for?
 
 ---
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 Since, therefore, we have now been <br>
 **justified** by his blood, much more shall we be <br>
 **saved** by him from the **wrath** of God. 
@@ -273,6 +286,7 @@ much more, now that we are reconciled, <br>
 shall we be **saved** by his life. 
 
 [Romans 5:9-10 (ESV)](# "ref")
+[Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
 + Yes, we **owe** an indescribable **debt** to God
@@ -322,7 +336,7 @@ through whom we have now received **reconciliation**.
   + to **separate** us from His love
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="outline" -->
 ## Romans 5: Grace Victorious
 1. Pride: in Our Future Hope <br> and Present Suffering [(1-5)](# "ref")
 1. Peace: in the Father's Love [(6-11)](# "ref")
@@ -542,7 +556,7 @@ through Jesus Christ our Lord.
 + Is that grace **enough**?
 
 ---
-<!-- .slide: class="empty" -->
+<!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="empty" -->
 >>>
 + O Lord, how long shall I cry for help,
   + and you will not hear?
