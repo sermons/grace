@@ -243,7 +243,7 @@ For one will scarcely die for a **righteous** person<br>
 one would dare even to die --
 
 [Romans 5:6-7 (ESV)](# "ref")
-["The stoning of St. Stephen", Gabriel-Jules Thomas, 1863. Paris](https://commons.wikimedia.org/wiki/File:Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg)
+["The stoning of St. Stephen", Gabriel-Jules Thomas, 1863. Paris](https://commons.wikimedia.org/wiki/File:Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg "caption")
 
 >>>
 + v7: not **contrast** but **appositive**:
@@ -305,11 +305,13 @@ shall we be **saved** by his life.
   + **owe** anything to God:
 
 ---
+<!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 More than that, we also **rejoice** in God <br>
 through our Lord Jesus Christ, <br>
 through whom we have now received **reconciliation**.
 
 [Romans 5:11 (ESV)](# "ref")
+[Milada Vigerova](https://unsplash.com/photos/iQWvVYMtv1k "caption")
 
 >>>
 + "rejoice": again, **boast**, pride, lift up head
@@ -350,6 +352,7 @@ through whom we have now received **reconciliation**.
 + which **overwhelms** sin and the curse of death
 
 ---
+<!-- .slide: <%= bg("unsplash-zvf7cZ0PC20-bare_trees.jpg") %> -->
 Therefore, just as **sin** came into the world <br>
 through one **man**, and **death** through sin, 
 
@@ -357,6 +360,7 @@ and so death spread to **all** men <br>
 because all sinned -- 
 
 [Romans 5:12 (ESV)](# "ref")
+[Kota Garut, Indonesia. Dikaseva](https://unsplash.com/photos/zvf7cZ0PC20 "caption")
 
 >>>
 + v12-14 first ack **rule** of death in our world:
@@ -369,12 +373,14 @@ because all sinned --
 + not just **Adam's** fault, **all** have sinned
 
 ---
+<!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
 for **sin** indeed was in the world <br>
 **before** the law was given, 
 
 but sin is not **counted** where there is no law. 
 
 [Romans 5:13 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/fgmf2Eyrwm4 "caption")
 
 >>>
 + studying Bible helps us **realize** how we've sinned
@@ -385,6 +391,7 @@ but sin is not **counted** where there is no law.
   + so should be **ok**
 
 ---
+<!-- .slide: <%= bg("unsplash-ghbepAO7BCs-vancouver_street.jpg") %> -->
 Yet **death reigned** from Adam to Moses, 
 
 even over those whose sinning was <br>
@@ -392,6 +399,7 @@ not like the **transgression of Adam**, <br>
 who was a type of the one who was to come.
 
 [Romans 5:14 (ESV)](# "ref")
+[Vancouver, BC.  Aditya Chinchure](https://unsplash.com/photos/ghbepAO7BCs "caption")
 
 >>>
 + Adam had direct **command** from God
@@ -424,6 +432,7 @@ who was a type of the one who was to come.
   + they are not even **close**!
 
 ---
+<!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> -->
 But the free **gift** is not like the trespass. 
 
 For if many **died** through one man's trespass, 
@@ -433,6 +442,7 @@ and the free gift by the grace of that <br>
 one man Jesus Christ **abounded** for many. 
 
 [Romans 5:15 (ESV)](# "ref")
+[Tel Aviv-Yafo. Joseph Barrientos](https://unsplash.com/photos/oQl0eVYd_n8 "caption")
 
 >>>
 + (1) God's grace is **bigger** than death from sin
@@ -444,22 +454,30 @@ one man Jesus Christ **abounded** for many.
   + bc it's not like that:
 
 ---
+<!-- .slide: <%= bg("unsplash-jG1z5o7NCq4-group_silhouette.jpg") %> -->
 And the free gift is not like <br>
 the result of that **one man's sin**. 
 
-For the judgment following **one trespass**<br>
-brought condemnation, 
-
-but the free gift following **many trespasses**<br>
-brought justification. 
-
-[Romans 5:16 (ESV)](# "ref")
+[Romans 5:16 (ESV) (p.1/2)](# "ref")
+[Mario Purisic](https://unsplash.com/photos/jG1z5o7NCq4 "caption")
 
 >>>
 + "For it is not as though bc one man's sin came the gift"
 + Jesus died not just to pay for **one** man's sin
 + (2) Jesus' death covers over **all** our sins
   + one vs **many**
+
+---
+<!-- .slide: <%= bg("unsplash-jG1z5o7NCq4-group_silhouette.jpg") %> -->
+For the judgment following **one trespass**<br>
+brought condemnation, 
+
+but the free gift following **many trespasses**<br>
+brought justification. 
+
+[Romans 5:16 (ESV) (p.2/2)](# "ref")
+
+>>>
 + on the **one hand**: the judgment 
   + out of one (sin), into condemnation
 + on the **other**: the gift 
@@ -467,6 +485,7 @@ brought justification.
 + It's also a matter of **power** / rule:
 
 ---
+<!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> -->
 For if, because of one man's trespass, <br>
 **death reigned** through that one man, 
 
@@ -476,6 +495,7 @@ the free gift of righteousness <br>
 **reign in life** through the one man Jesus Christ.
 
 [Romans 5:17 (ESV)](# "ref")
+[Claudio Testa](https://unsplash.com/photos/FrlCwXwbwkk "caption")
 
 >>>
 + (3) God's grace will bring a new **kingdom**
@@ -484,20 +504,25 @@ the free gift of righteousness <br>
 + How does this affect how God **sees** us?
 
 ---
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
 Therefore, as **one trespass** led to <br>
 condemnation for all men, 
 
 so **one act of righteousness** leads to <br>
 justification and life for all men. 
 
-[19](# "ref")
+[Romans 5:18-19 (ESV) (p.1/2)](# "ref")
+[Alex Woods](https://unsplash.com/photos/pZVi92S-ZMs "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
 For as by the one man's disobedience <br>
 the many were **made sinners**, 
 
 so by the one man's obedience <br>
 the many will be **made righteous**. 
 
-[Romans 5:18-19 (ESV)](# "ref")
+[Romans 5:18-19 (ESV) (p.2/2)](# "ref")
 
 >>>
 + **disobedience** vs obedience
@@ -511,17 +536,24 @@ the many will be **made righteous**.
   + this time by **fire**
 
 ---
-Now the **law** came in to **increase** the trespass, <br>
+<!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> -->
+Now the **law** came in to **increase** the trespass,
+
 but where **sin** increased, <br>
 **grace** abounded all the more, 
 
-[21](# "ref")
+[Romans 5:20-21 (ESV) (p.1/2)](# "ref")
+[Warsaw, Poland. FreeStocks](https://unsplash.com/photos/r_oV6smBBYk/info "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> -->
 so that, as sin **reigned** in death, <br>
-grace also might **reign** through righteousness <br>
+grace also might **reign** through righteousness 
+
 leading to eternal life <br>
 through Jesus Christ our Lord.
 
-[Romans 5:20-21 (ESV)](# "ref")
+[Romans 5:20-21 (ESV) (p.2/2)](# "ref")
 
 >>>
 + being **told** what not to do
