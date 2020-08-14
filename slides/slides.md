@@ -402,8 +402,10 @@ who was a type of the one who was to come.
 + repeatedly draws **parallel** between
 + Adam's **sin** vs Christ's **sacrifice** for us
 + one resulting in **death** + condemnation
-+ the other resulting in **life** + being deemed **righteous**
+  + other resulting in **life** + being deemed **righteous**
 + But in each comparison, **grace** wins!
++ not equal duality: **yin-yang**, good/evil, God/devil
+  + they are not even **close**!
 
 ---
 But the free **gift** is not like the trespass. 
@@ -417,7 +419,6 @@ one man Jesus Christ **abounded** for many.
 [Romans 5:15 (ESV)](# "ref")
 
 >>>
-+ not equal duality: **yin-yang**, good/evil, God/devil
 + (1) God's grace is **bigger** than death from sin
 + "abounds": surpass, **exceed** normal, overflow
 + Trying to be good by following the **rules**
