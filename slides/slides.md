@@ -412,7 +412,7 @@ who was a type of the one who was to come.
 + Do God's **expectations** of holiness
   + only **apply** to Christians?
 + Even if diff **culture** / relig bg
-  + **sin** + death still reigns in heart (ch2)
+  + **sin** + death still reign in heart (ch2)
 + But there's **hope**!
 
 ---
