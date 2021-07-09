@@ -86,7 +86,7 @@
   "license": "CC-BY-SA-4.0",
   "private": true,
   "dependencies": {
-    "highlight.js": "^11.0.1",
+    "highlight.js": "^11.1.0",
     "reveal.js": "^4.1.1",
     "socket.io-client": "^4.1.2"
   },
