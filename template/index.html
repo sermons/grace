@@ -41,6 +41,8 @@
         <span class="links">
           <a href="<%= pkg.shortname %>.pdf">
             <i class="fas fa-file-pdf"></i></a>
+	  <a onclick='Reveal.getPlugin("notes").open()'>
+	    <i class="fas fa-comment"></i></a>
           <a href="https://github.com/<%= pkg.repository %>/actions/runs/<%= process.env.GITHUB_RUN_ID %>">
             <i class="fas fa-hammer"></i></a>
         </span>
@@ -61,16 +63,9 @@
 
     <script src="lib/socket.io/socket.io.min.js"></script>
 
-    <script type="text/x-mathjax-config">
-      MathJax.Hub.Config({
-        SVG: { scale: 77 },
-	showMathMenu: false
-      });
-    </script>
-
     <script>
       mpkey = Reveal().getQueryHash().s || null
-      mpdep = '<%= pkg.config.multiplex.url %>' + (mpkey ? 'master' : 'client') + '.js'
+      mpdep = 'https://raw.githack.com/reveal/multiplex/master/' + (mpkey ? 'master' : 'client') + '.js'
 
       Reveal.initialize({
         display: 'flex',
@@ -83,18 +78,13 @@
           smartypants: true
         },
 
-        math: {
-          mathjax: '<%= pkg.config.mathjax %>',
-          config: 'AM_SVG'
-        },
-
         multiplex: {
           url: '<%= pkg.config.multiplex.url %>',
           id : '<%= pkg.config.multiplex.id  %>',
           secret: mpkey
         },
 
-        plugins: [ RevealMarkdown, RevealHighlight, RevealMath, RevealNotes ],
+        plugins: [ RevealMarkdown, RevealHighlight, RevealMath.KaTeX, RevealNotes ],
 
         dependencies: [
 	  (mpkey == 'none') ? null : { src: mpdep, async:true }
