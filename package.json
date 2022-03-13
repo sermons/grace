@@ -6,7 +6,7 @@
     "sermon",
     "romans"
   ],
-  "version": "2.5.7",
+  "version": "2.5.11",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "",
@@ -60,38 +60,37 @@
     "slides": [
       "slides.md"
     ],
-    "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0",
-    "mathjax": "https://cdn.jsdelivr.net/npm/mathjax@2",
+    "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.0",
     "css": [
       {
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/fontawesome.min.css",
-        "integrity": "sha256-CuUPKpitgFmSNQuPDL5cEfPOOJT/+bwUlhfumDJ9CI4="
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/fontawesome.min.css",
+        "integrity": "sha512-P9vJUXK+LyvAzj8otTOKzdfF1F3UYVl13+F8Fof8/2QNb8Twd6Vb+VD52I7+87tex9UXxnzPgWA3rH96RExA7A=="
       },
       {
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/solid.min.css",
-        "integrity": "sha256-pIAzc/BIIo/hSvtNEDIiMTBtR9EfK3COmnH2pt8cPDY="
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/solid.min.css",
+        "integrity": "sha512-tk4nGrLxft4l30r9ETuejLU0a3d7LwMzj0eXjzc16JQj+5U1IeVoCuGLObRDc3+eQMUcEQY1RIDPGvuA7SNQ2w=="
       },
       {
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/brands.min.css",
-        "integrity": "sha256-wfbbsQFYKnizQi/WLPXS3wVDu0Dpi2yUQpZBDsb2H1s="
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/brands.min.css",
+        "integrity": "sha512-sVSECYdnRMezwuq5uAjKQJEcu2wybeAPjU4VJQ9pCRcCY4pIpIw4YMHIOQ0CypfwHRvdSPbH++dA3O4Hihm/LQ=="
       },
       {
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0/reveal.min.css",
-        "integrity": "sha512-zu0eodDPCBAZf1vnIgwZ6qchMBt1xqgGkS9vBjVmunoH8pU7cc9OQKBiSQCclpvqySupy9Y1pLZc87VB40G4Sw=="
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.0/reveal.min.css",
+        "integrity": "sha512-e3dnmFe5hH2bJx1MvUU3PFToGVQ2xykp/VGERCkuh4lTGMJ5QuxKFRIwix8DfnfkavwJiL6rehb9e1d6mFLwlg=="
       },
       {
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/atom-one-dark.min.css",
-        "integrity": "sha512-Fcqyubi5qOvl+yCwSJ+r7lli+CO1eHXMaugsZrnxuU4DVpLYWXTVoHy55+mCb4VZpMgy7PBhV7IiymC0yu9tkQ=="
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/atom-one-dark.min.css",
+        "integrity": "sha512-Jk4AqjWsdSzSWCSuQTfYRIF84Rq/eV0G2+tu07byYwHcbTGfdmLrHjUSwvzp5HvbiqK4ibmNwdcG49Y5RGYPTg=="
       }
     ],
     "js": [
       {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js",
-        "integrity": "sha512-s+tOYYcC3Jybgr9mVsdAxsRYlGNq4mlAurOrfNuGMQ/SCofNPu92tjE7YRZCsdEtWL1yGkqk15fU/ark206YTg=="
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js",
+        "integrity": "sha512-IaaKO80nPNs5j+VLxd42eK/7sYuXQmr+fyywCNA0e+C6gtQnuCXNtORe9xR4LqGPz5U9VpH+ff41wKs/ZmC3iA=="
       },
       {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0/reveal.min.js",
-        "integrity": "sha512-Xu/cezKABTI81MGnaBm64vdiS7XkttHeYGOgr2Mdga0bTplSBGongLq2lhK2HwL79wefKM0u4uTCLD0ha1sRzQ=="
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.0/reveal.min.js",
+        "integrity": "sha512-m6ShsCUzCQmgDHleTy2FbuzCPKnSOOypMBALE6LT/q858WxkGMJLajB5Obw+BT8C3mIIoBfEM5F+G5/Eemixfw=="
       }
     ],
     "plugins": [
@@ -104,13 +103,13 @@
   "license": "CC-BY-SA-4.0",
   "private": true,
   "dependencies": {
-    "highlight.js": "^11.2.0",
-    "reveal.js": "^4.1.3",
-    "socket.io-client": "^4.2.0"
+    "highlight.js": "^11.5.0",
+    "reveal.js": "^4.3.0",
+    "socket.io-client": "^4.4.1"
   },
   "devDependencies": {
-    "coffeescript": "^2.5.1",
-    "decktape": "^3.1.0",
+    "coffeescript": "^2.6.1",
+    "decktape": "^3.4.1",
     "grunt": "^1.4.1",
     "grunt-contrib-connect": "^3.0.0",
     "grunt-contrib-copy": "^1.0.0",
@@ -118,8 +117,8 @@
     "grunt-sass": "^3.1.0",
     "ini": "^2.0.0",
     "load-grunt-tasks": "^5.1.0",
-    "node-sass": "^6.0.1",
-    "qrcode": "^1.4.4"
+    "node-sass": "^7.0.1",
+    "qrcode": "^1.5.0"
   },
   "scripts": {
     "postinstall": "grunt install",
