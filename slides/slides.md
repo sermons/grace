@@ -222,7 +222,7 @@ you have been **grieved** by various trials,
 因此，你們是大有喜樂；<br>
 但如今，在百般的試煉中暫時憂愁，
 
-[1 Peter 1:6 (ESV/CUV) (p.1/2)](# "ref")
+[1 Peter 彼得前書 1:6 (ESV/CUV) (p.1/2)](# "ref")
 [Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
@@ -241,7 +241,7 @@ and honor at the **revelation** of Jesus Christ.
 可以在耶穌基督顯現的時候<br>
 得著稱讚、榮耀、尊貴。
 
-[1 Peter 1:7 (ESV/CUV) (p.2/2)](# "ref")
+[1 Peter 彼得前書 1:7 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + tested: **proof** ("character" in Rom 5:4)
