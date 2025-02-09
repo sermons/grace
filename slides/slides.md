@@ -18,8 +18,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I feel as though **evil** is winning?
-# 我是否覺得惡正在得勝？
+# Do I feel as though <br> **evil** is winning?
+# 我是否覺得 <br>惡正在得勝？
 
 >>>
 + in **world**, in hearts of those **close** to us,
@@ -99,7 +99,7 @@ as it is written, <br>
 1. _Walk_: Rational **Service** to God [(ch12-15)](# "ref") </br>
   與神同行：以神的真理服事敬拜祂
 
-<!-- .element: class="r-fit-text" -->
+<!-- .element: style="font-size: 0.8rem" -->
 
 >>>
 + **Need** for salvation
@@ -116,11 +116,11 @@ as it is written, <br>
 ---
 <!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="outline" id="outline" -->
 ## Romans 5: Grace Victorious
-1. **Pride**: in Our Future Hope <br> and Present Suffering [(1-5)](# "ref") <br>
+1. **Pride**: Future Hope, Present Suffering [(1-5)](# "ref") <br>
   主裡誇口：在我們未來的盼望跟現在的患難裡
 1. **Peace**: in the Father's Love [(6-11)](# "ref") <br>
   主裡平安：在天父的愛裡
-1. **Power**: in Grace which <br> Surpasses Sin [(12-21)](# "ref") <br>
+1. **Power**: in Grace which Surpasses Sin [(12-21)](# "ref") <br>
   主的大能: 在超越罪惡的恩典中
 
 <!-- .element: class="r-fit-text" -->
@@ -188,11 +188,18 @@ and character produces **hope**, <br>
 [Romans 5:3-4 (ESV/CUV) (p.1/2)](# "ref")
 [Sven Scheuermeier](https://unsplash.com/photos/saGbrA6s8g0 "caption")
 
+>>>
++ suff: not bc **struggle** to achieve own **goals**
+  + but bc we desire to be **holy**
+  + but inhabit world/body **broken** by sin + death
++ **perseverance** (remain under)
++ **proof** (tested + true)
+
 ---
 <!-- .slide: <%= bg("unsplash-saGbrA6s8g0-underwater.jpg") %>  -->
 and hope does not put us to shame, <br>
 because God's **love** has been poured <br>
-into our hearts through the Holy Spirit <br>
+into our hearts through the **Holy Spirit** <br>
 who has been given to us.
 
 盼望不至於羞恥，<br>
@@ -200,12 +207,8 @@ who has been given to us.
 將神的愛澆灌在我們心裡。
 
 [Romans 5:5 (ESV/CUV) (p.2/2)](# "ref")
+
 >>>
-+ suff: not bc **struggle** to achieve own **goals**
-  + but bc we desire to be **holy**
-  + but inhabit world/body **broken** by sin + death
-+ **perseverance** (remain under)
-+ **proof** (tested + true)
 + **hope**: when Chr returns He will find in me
   + proven **faith**, more precious than gold
 + 1 Pet 1:
@@ -228,14 +231,15 @@ you have been **grieved** by various trials,
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 so that the **tested genuineness** <br>
-of your faith — more precious than **gold** <br>
+of your **faith** — more precious than gold <br>
 that perishes though it is tested by fire — <br>
 may be found to result in **praise** and glory <br>
 and honor at the **revelation** of Jesus Christ.
 
 叫你們的信心既被試驗，<br>
 就比那被火試驗仍然能壞的金子更顯寶貴，<br>
-可以在耶穌基督顯現的時候得著稱讚、榮耀、尊貴。
+可以在耶穌基督顯現的時候<br>
+得著稱讚、榮耀、尊貴。
 
 [1 Peter 1:7 (ESV/CUV) (p.2/2)](# "ref")
 
@@ -256,7 +260,7 @@ and honor at the **revelation** of Jesus Christ.
 ---
 <!-- .slide: data-background="white" -->
 # What **reasons** do I have to be **proud**?
-# 我有什麼原因可以誇口？
+# 我有什麼原因<br>可以誇口？
 
 >>>
 + **Future** hope to see God's glory
@@ -400,8 +404,8 @@ through whom we have now received **reconciliation**.
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I **know** <br> that the Father **loves** me?
-# 我如何知道天父愛我？
+# How do I **know** that <br> the Father **loves** me?
+# 我如何知道<br>天父愛我？
 
 >>>
 + Bc I'm **lovable**?  Nope!
@@ -432,7 +436,8 @@ through whom we have now received **reconciliation**.
 <!-- .slide: <%= bg("unsplash-zvf7cZ0PC20-bare_trees.jpg") %> -->
 Therefore, just as **sin** came into the world <br>
 through one **man**, and **death** through sin, <br>
-and so death spread to **all** men because all sinned 
+and so death spread to **all** men <br>
+because all sinned 
 
 這就如罪是從一人入了世界，<br>
 死又是從罪來的；<br>
@@ -502,14 +507,16 @@ who was a type of the one who was to come.
 
 ---
 ## 3. Grace Greater than Sin 超越罪惡的恩典
-1. God's grace far **exceeds** <br> the consequences of sin [(v15)](# "ref") <br>
+1. God's grace far **exceeds** sin's harm [(v15)](# "ref") <br>
   神的恩典遠超過罪的後果
 1. Jesus' death covers **all** our sins [(v16)](# "ref") <br>
   耶穌的死遮蓋了我們所有的罪
-1. God's grace will bring a new **kingdom** [(v17)](# "ref") <br>
+1. God's grace brings a new **kingdom** [(v17)](# "ref") <br>
   神的恩典會帶來新的國度
 1. Christ's obedience changes <br> our **standing** before God [(v18-19)](# "ref") <br>
-  基督的順服改變了我們在 神面前的地位
+  基督的順服改變了我們在 <br> 神面前的地位
+
+<!-- .element: style="font-size: 0.8rem" -->
 
 >>>
 + repeatedly draws **parallel** between
@@ -522,19 +529,34 @@ who was a type of the one who was to come.
 
 ---
 <!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> -->
+1. God's grace far **exceeds** sin's harm [(v15)](# "ref") <br>
+  神的恩典遠超過罪的後果
+
 But the free **gift** is not like the trespass. 
 
+只是過犯不如恩賜
 
+[Romans 5:15(a) (ESV/CUV)](# "ref")
+[Tel Aviv-Yafo. Joseph Barrientos](https://unsplash.com/photos/oQl0eVYd_n8 "caption")
+
+>>>
++ (1) God's grace is **bigger** than death from sin
+---
+<!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> -->
 For if many **died** through one man's trespass, 
 much more have the **grace** of God <br>
 and the free gift by the grace of that <br>
 one man Jesus Christ **abounded** for many. 
 
-[Romans 5:15 (ESV)](# "ref")
+若因一人的過犯，眾人都死了，<br>
+何況神的恩典，<br>
+與那因耶穌基督一人恩典中的賞賜，<br>
+豈不更加倍的臨到眾人麼？
+
+[Romans 5:15b (ESV/CUV)](# "ref")
 [Tel Aviv-Yafo. Joseph Barrientos](https://unsplash.com/photos/oQl0eVYd_n8 "caption")
 
 >>>
-+ (1) God's grace is **bigger** than death from sin
 + "abounds": surpass, **exceed** normal, overflow
 + Trying to be good by following the **rules**
   + means if you mess up **once**, you're **done**:
@@ -544,10 +566,15 @@ one man Jesus Christ **abounded** for many.
 
 ---
 <!-- .slide: <%= bg("unsplash-jG1z5o7NCq4-group_silhouette.jpg") %> -->
+2. Jesus' death covers **all** our sins [(v16)](# "ref") <br>
+  耶穌的死遮蓋了我們所有的罪
+
 And the free gift is not like <br>
 the result of that **one man's sin**. 
 
-[Romans 5:16 (ESV) (p.1/2)](# "ref")
+因一人犯罪就定罪，也不如恩賜
+
+[Romans 5:16a (ESV/CUV) (p.1/2)](# "ref")
 [Mario Purisic](https://unsplash.com/photos/jG1z5o7NCq4 "caption")
 
 >>>
@@ -559,12 +586,14 @@ the result of that **one man's sin**.
 ---
 <!-- .slide: <%= bg("unsplash-jG1z5o7NCq4-group_silhouette.jpg") %> -->
 For the judgment following **one trespass**<br>
-brought condemnation, 
-
+brought condemnation, <br>
 but the free gift following **many trespasses**<br>
 brought justification. 
 
-[Romans 5:16 (ESV) (p.2/2)](# "ref")
+原來審判是由一人而定罪，<br>
+恩賜乃是由許多過犯而稱義。
+
+[Romans 5:16b (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + on the **one hand**: the judgment 
@@ -575,19 +604,33 @@ brought justification.
 
 ---
 <!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> -->
+3. God's grace brings a new **kingdom** [(v17)](# "ref") <br>
+  神的恩典會帶來新的國度
+
 For if, because of one man's trespass, <br>
 **death reigned** through that one man, 
 
+若因一人的過犯，死就因這一人作了王，
+
+[Romans 5:17 (ESV/CUV)](# "ref")
+[Claudio Testa](https://unsplash.com/photos/FrlCwXwbwkk "caption")
+
+>>>
++ (3) God's grace will bring a new **kingdom**
+
+---
+<!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> -->
 much more will **those who receive** <br>
 the abundance of grace and <br>
 the free gift of righteousness <br>
 **reign in life** through the one man Jesus Christ.
 
-[Romans 5:17 (ESV)](# "ref")
-[Claudio Testa](https://unsplash.com/photos/FrlCwXwbwkk "caption")
+何況那些受洪恩又蒙所賜之義的，<br>
+豈不更要因耶穌基督一人在生命中作王麼？
+
+[Romans 5:17b (ESV/CUV)](# "ref")
 
 >>>
-+ (3) God's grace will bring a new **kingdom**
 + Now operate under rule of **death**: barely surviving
 + But bc of Christ's gift, **we** will reign!
 + How does this affect how God **sees** us?
@@ -595,23 +638,30 @@ the free gift of righteousness <br>
 ---
 <!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
 Therefore, as **one trespass** led to <br>
-condemnation for all men, 
-
+condemnation for all men, <br>
 so **one act of righteousness** leads to <br>
 justification and life for all men. 
 
-[Romans 5:18-19 (ESV) (p.1/2)](# "ref")
+如此說來，因一次的過犯，<br>
+眾人都被定罪；<br>
+照樣，因一次的義行，<br>
+眾人也就被稱義得生命了
+
+[Romans 5:18 (ESV/CUV) (p.1/2)](# "ref")
 [Alex Woods](https://unsplash.com/photos/pZVi92S-ZMs "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
 For as by the one man's disobedience <br>
-the many were **made sinners**, 
-
+the many were **made sinners**, <br>
 so by the one man's obedience <br>
 the many will be **made righteous**. 
 
-[Romans 5:18-19 (ESV) (p.2/2)](# "ref")
+因一人的悖逆，眾人成為罪人；<br>
+照樣，因一人的順從，<br>
+眾人也成為義了。
+
+[Romans 5:19 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + **disobedience** vs obedience
@@ -627,22 +677,27 @@ the many will be **made righteous**.
 ---
 <!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> -->
 Now the **law** came in to **increase** the trespass,
-
 but where **sin** increased, <br>
 **grace** abounded all the more, 
 
-[Romans 5:20-21 (ESV) (p.1/2)](# "ref")
+律法本是外添的，叫過犯顯多；<br>
+只是罪在那裡顯多，恩典就更顯多了。
+
+[Romans 5:20 (ESV/CUV)](# "ref")
 [Warsaw, Poland. FreeStocks](https://unsplash.com/photos/r_oV6smBBYk/info "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> -->
 so that, as sin **reigned** in death, <br>
-grace also might **reign** through righteousness 
-
+grace also might **reign** through righteousness <br>
 leading to eternal life <br>
 through Jesus Christ our Lord.
 
-[Romans 5:20-21 (ESV) (p.2/2)](# "ref")
+就如罪作王叫人死；<br>
+照樣，恩典也藉著義作王，<br>
+叫人因我們的主耶穌基督得永生。
+
+[Romans 5:21 (ESV/CUV)](# "ref")
 
 >>>
 + being **told** what not to do
@@ -660,6 +715,7 @@ through Jesus Christ our Lord.
 ---
 <!-- .slide: data-background="white" -->
 # Am I looking for something **more** than God's grace?
+# 我是否在尋找 神恩典之外的東西？
 
 >>>
 + Cry out to God: so much **pain**, brokenness, evil
