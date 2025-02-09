@@ -281,6 +281,8 @@ and honor at the **revelation** of Jesus Christ.
 1. Power: in Grace which Surpasses Sin [(12-21)](# "ref") <br>
   主的大能: 在超越罪惡的恩典中
 
+<!-- .element: class="r-fit-text" -->
+
 >>>
 + But I **hope** and hope that God will
   + **reward** me in heaven for my faith
@@ -430,6 +432,8 @@ through whom we have now received **reconciliation**.
   主裡平安：在天父的愛裡
 1. **Power**: in Grace which Surpasses Sin [(12-21)](# "ref") <br>
   **主的大能**: 在超越罪惡的恩典中
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + In light of the **power** of God's love
