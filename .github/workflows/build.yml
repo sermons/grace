@@ -1,24 +1,29 @@
-name: Build static site
+name: Build and deploy static site
 on:
   push:
     branches: 
     - master
     - $default-branch
   workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repo from Github
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     - name: Update package list
       run: sudo apt update
     - name: Install gs
       run: sudo apt install ghostscript
     - name: Configure node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
-        node-version: '16'
+        node-version: '22'
         cache: 'npm'
     - name: Clean install node package
       run: npm ci
@@ -26,8 +31,21 @@ jobs:
       run: npm run build --if-present
     - name: Run node package tests
       run: npm test
-    - name: Deploy to gh-pages
-      uses: JamesIves/github-pages-deploy-action@v4.2.5
+    - name: Upload artifact
+      id: upload-artifact
+      uses: actions/upload-pages-artifact@v3
       with:
-        branch: gh-pages
-        folder: dist
+        name: 'site'
+        path: 'dist'
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - name: Deploy to Github Pages
+      uses: actions/deploy-pages@v4
+      with:
+        artifact_name: 'site'
