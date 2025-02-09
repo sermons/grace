@@ -57,7 +57,7 @@ to the **Jew** first and also to the **Greek**.
 要救一切相信的，</br>
 先是猶太人，後是希利尼人。
 
-[Romans 1:16 (ESV/CUV) (p.1/2)](# "ref")
+[Romans 羅馬書 1:16 (ESV/CUV) (p.1/2)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 ---
@@ -71,7 +71,7 @@ as it is written, <br>
 這義是本於信，以致於信。<br>
 如經上所記：義人必因信得生。
 
-[Romans 1:17 (ESV/CUV) (p.2/2)](# "ref")
+[Romans 羅馬書 1:17 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + God's **power** not only in righteous **judgment**
@@ -115,7 +115,7 @@ as it is written, <br>
 
 ---
 <!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="outline" id="outline" -->
-## Romans 5: Grace Victorious
+## Romans 羅馬書 5: Grace Victorious
 1. **Pride**: Future Hope, Present Suffering [(1-5)](# "ref") <br>
   主裡誇口：在我們未來的盼望跟現在的患難裡
 1. **Peace**: in the Father's Love [(6-11)](# "ref") <br>
@@ -143,7 +143,7 @@ through our Lord Jesus Christ.
 就藉著我們的主耶穌基督<br>
 得與神相和。
 
-[Romans 5:1 (ESV/CUV) (p.1/2)](# "ref")
+[Romans 羅馬書 5:1 (ESV/CUV) (p.1/2)](# "ref")
 [Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 >>>
@@ -163,7 +163,7 @@ and we **rejoice** in hope of the glory of God.
 因信得進入現在所站的這恩典中，<br>
 並且歡歡喜喜盼望神的榮耀。
 
-[Romans 5:2 (ESV/CUV) (p.2/2)](# "ref")
+[Romans 羅馬書 5:2 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + "grace": our current **status** before God
@@ -185,7 +185,7 @@ and character produces **hope**, <br>
 因為知道患難生忍耐，<br>
 忍耐生老練，老練生盼望；
 
-[Romans 5:3-4 (ESV/CUV) (p.1/2)](# "ref")
+[Romans 羅馬書 5:3-4 (ESV/CUV) (p.1/2)](# "ref")
 [Sven Scheuermeier](https://unsplash.com/photos/saGbrA6s8g0 "caption")
 
 >>>
@@ -206,7 +206,7 @@ who has been given to us.
 因為所賜給我們的聖靈<br>
 將神的愛澆灌在我們心裡。
 
-[Romans 5:5 (ESV/CUV) (p.2/2)](# "ref")
+[Romans 羅馬書 5:5 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + **hope**: when Chr returns He will find in me
@@ -273,7 +273,7 @@ and honor at the **revelation** of Jesus Christ.
 
 ---
 <!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="outline" -->
-## Romans 5: Grace Victorious
+## Romans 羅馬書 5: Grace Victorious
 1. Pride: Future Hope, Present Suffering [(1-5)](# "ref") <br>
   主裡誇口：在我們未來的盼望跟現在的患難裡
 1. **Peace: in the Father's Love** [(6-11)](# "ref") <br>
@@ -299,7 +299,7 @@ at the right time **Christ died** for the ungodly.
 因我們還軟弱的時候，<br>
 基督就按所定的日期為罪人死。
 
-[Romans 5:6 (ESV/CUV)](# "ref")
+[Romans 羅馬書 5:6 (ESV/CUV)](# "ref")
 ["The stoning of St. Stephen", Gabriel-Jules Thomas, 1863. Paris](https://commons.wikimedia.org/wiki/File:Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg "caption")
 
 ---
@@ -311,7 +311,7 @@ one would dare even to die --
 為義人死，是少有的；<br>
 為仁人死、或者有敢做的。
 
-[Romans 5:7 (ESV/CUV)](# "ref")
+[Romans 羅馬書 5:7 (ESV/CUV)](# "ref")
 >>>
 + v7: not **contrast** but **appositive**:
 + maybe you might **die** for a person / cause
@@ -328,7 +328,7 @@ while we were still **sinners**, Christ died for us.
 惟有基督在我們還作罪人的時候為我們死，<br>
 神的愛就在此向我們顯明了。
 
-[Romans 5:8 (ESV/CUV)](# "ref")
+[Romans 羅馬書 5:8 (ESV/CUV)](# "ref")
 [Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
 
 >>>
@@ -351,7 +351,7 @@ Since, therefore, we have now been <br>
 現在我們既靠著他的血稱義，<br>
 就更要藉著他免去神的忿怒。
 
-[Romans 5:9 (ESV/CUV)](# "ref")
+[Romans 羅馬書 5:9 (ESV/CUV)](# "ref")
 [Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 ---
@@ -365,7 +365,7 @@ shall we be **saved** by his life.
 且藉著神兒子的死，得與神和好；<br>
 既已和好，就更要因他的生得救了。
 
-[Romans 5:10 (ESV/CUV)](# "ref")
+[Romans 羅馬書 5:10 (ESV/CUV)](# "ref")
 
 >>>
 + Yes, we **owe** an indescribable **debt** to God
@@ -393,7 +393,7 @@ through whom we have now received **reconciliation**.
 我主耶穌基督得與神和好，<br>
 也就藉著他以神為樂。
 
-[Romans 5:11 (ESV)](# "ref")
+[Romans 羅馬書 5:11 (ESV)](# "ref")
 [Milada Vigerova](https://unsplash.com/photos/iQWvVYMtv1k "caption")
 
 >>>
@@ -423,7 +423,7 @@ through whom we have now received **reconciliation**.
 
 ---
 <!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="outline" -->
-## Romans 5: Grace Victorious
+## Romans 羅馬書 5: Grace Victorious
 1. Pride: Future Hope, Present Suffering [(1-5)](# "ref") <br>
   主裡誇口：在我們未來的盼望跟現在的患難裡
 1. Peace: in the Father's Love [(6-11)](# "ref") <br>
@@ -450,7 +450,7 @@ because all sinned
 於是死就臨到眾人，<br>
 因為眾人都犯了罪。
 
-[Romans 5:12 (ESV)](# "ref")
+[Romans 羅馬書 5:12 (ESV)](# "ref")
 [Kota Garut, Indonesia. Dikaseva](https://unsplash.com/photos/zvf7cZ0PC20 "caption")
 
 >>>
@@ -472,7 +472,7 @@ but sin is not **counted** where there is no law.
 沒有律法之先，罪已經在世上；<br>
 但沒有律法，罪也不算罪。
 
-[Romans 5:13 (ESV)](# "ref")
+[Romans 羅馬書 5:13 (ESV)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/fgmf2Eyrwm4 "caption")
 
 >>>
@@ -494,7 +494,7 @@ who was a type of the one who was to come.
 連那些不與亞當犯一樣罪過的，也在他的權下。<br>
 亞當乃是那以後要來之人的豫像。
 
-[Romans 5:14 (ESV)](# "ref")
+[Romans 羅馬書 5:14 (ESV)](# "ref")
 [Vancouver, BC.  Aditya Chinchure](https://unsplash.com/photos/ghbepAO7BCs "caption")
 
 >>>
@@ -543,7 +543,7 @@ But the free **gift** is not like the trespass.
 
 只是過犯不如恩賜
 
-[Romans 5:15(a) (ESV/CUV)](# "ref")
+[Romans 羅馬書 5:15(a) (ESV/CUV)](# "ref")
 [Tel Aviv-Yafo. Joseph Barrientos](https://unsplash.com/photos/oQl0eVYd_n8 "caption")
 
 >>>
@@ -561,7 +561,7 @@ one man Jesus Christ **abounded** for many.
 與那因耶穌基督一人恩典中的賞賜，<br>
 豈不更加倍的臨到眾人麼？
 
-[Romans 5:15b (ESV/CUV)](# "ref")
+[Romans 羅馬書 5:15b (ESV/CUV)](# "ref")
 [Tel Aviv-Yafo. Joseph Barrientos](https://unsplash.com/photos/oQl0eVYd_n8 "caption")
 
 >>>
@@ -584,7 +584,7 @@ the result of that **one man's sin**.
 
 因一人犯罪就定罪，也不如恩賜
 
-[Romans 5:16a (ESV/CUV) (p.1/2)](# "ref")
+[Romans 羅馬書 5:16a (ESV/CUV) (p.1/2)](# "ref")
 [Mario Purisic](https://unsplash.com/photos/jG1z5o7NCq4 "caption")
 
 >>>
@@ -603,7 +603,7 @@ brought justification.
 原來審判是由一人而定罪，<br>
 恩賜乃是由許多過犯而稱義。
 
-[Romans 5:16b (ESV/CUV) (p.2/2)](# "ref")
+[Romans 羅馬書 5:16b (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + on the **one hand**: the judgment 
@@ -624,7 +624,7 @@ For if, because of one man's trespass, <br>
 
 若因一人的過犯，死就因這一人作了王，
 
-[Romans 5:17 (ESV/CUV)](# "ref")
+[Romans 羅馬書 5:17 (ESV/CUV)](# "ref")
 [Claudio Testa](https://unsplash.com/photos/FrlCwXwbwkk "caption")
 
 >>>
@@ -640,7 +640,7 @@ the free gift of righteousness <br>
 何況那些受洪恩又蒙所賜之義的，<br>
 豈不更要因耶穌基督一人在生命中作王麼？
 
-[Romans 5:17b (ESV/CUV)](# "ref")
+[Romans 羅馬書 5:17b (ESV/CUV)](# "ref")
 
 >>>
 + Now operate under rule of **death**: barely surviving
@@ -659,7 +659,7 @@ justification and life for all men.
 照樣，因一次的義行，<br>
 眾人也就被稱義得生命了
 
-[Romans 5:18 (ESV/CUV) (p.1/2)](# "ref")
+[Romans 羅馬書 5:18 (ESV/CUV) (p.1/2)](# "ref")
 [Alex Woods](https://unsplash.com/photos/pZVi92S-ZMs "caption")
 
 ---
@@ -673,7 +673,7 @@ the many will be **made righteous**.
 照樣，因一人的順從，<br>
 眾人也成為義了。
 
-[Romans 5:19 (ESV/CUV) (p.2/2)](# "ref")
+[Romans 羅馬書 5:19 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + **disobedience** vs obedience
@@ -695,7 +695,7 @@ but where **sin** increased, <br>
 律法本是外添的，叫過犯顯多；<br>
 只是罪在那裡顯多，恩典就更顯多了。
 
-[Romans 5:20 (ESV/CUV)](# "ref")
+[Romans 羅馬書 5:20 (ESV/CUV)](# "ref")
 [Warsaw, Poland. FreeStocks](https://unsplash.com/photos/r_oV6smBBYk/info "caption")
 
 ---
@@ -709,7 +709,7 @@ through Jesus Christ our Lord.
 照樣，恩典也藉著義作王，<br>
 叫人因我們的主耶穌基督得永生。
 
-[Romans 5:21 (ESV/CUV)](# "ref")
+[Romans 羅馬書 5:21 (ESV/CUV)](# "ref")
 
 >>>
 + being **told** what not to do
