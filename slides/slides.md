@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> id="title" -->
-# Grace Victorious
-## Romans 5
+# Grace Victorious <br> 得勝的恩典
+## Romans 羅馬書 5
 [Langtang National Park, Nepal. Sergey Pesterev](https://unsplash.com/photos/JV78PVf3gGI "caption")
 <!-- congregational reading: v1-5 -->
 
@@ -19,6 +19,7 @@
 ---
 <!-- .slide: data-background="white" -->
 # Do I feel as though **evil** is winning?
+# 我是否覺得惡正在得勝？
 
 >>>
 + in **world**, in hearts of those **close** to us,
@@ -51,14 +52,26 @@ for it is the **power** of God <br>
 for **salvation** to everyone who believes, <br>
 to the **Jew** first and also to the **Greek**. 
 
-[17](# "ref")
+我不以福音為恥；</br>
+這福音本是神的大能，</br>
+要救一切相信的，</br>
+先是猶太人，後是希利尼人。
+
+[Romans 1:16 (ESV/CUV) (p.1/2)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 For in it the **righteousness** of God <br>
 is revealed from **faith** for faith, <br>
 as it is written, <br>
 “The righteous shall **live by faith**.”
 
-[Romans 1:16-17 (ESV)](# "ref")
-[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
+因為神的義正在這福音上顯明出來；<br>
+這義是本於信，以致於信。<br>
+如經上所記：義人必因信得生。
+
+[Romans 1:17 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + God's **power** not only in righteous **judgment**
@@ -73,12 +86,20 @@ as it is written, <br>
 + Reflected in approx **outline** of the book:
 
 ---
-## Overview of Romans
-1. _Need_: Man's **Sin** + God's **Wrath** [(ch1-3a)](# "ref")
-1. _Means_: Saved by **Faith** in **Grace** [(ch3a-5)](# "ref")
-1. _Life_: **Dead** in the Body, **Alive** in the Spirit [(ch6-8)](# "ref")
-1. _Message_: Partial **Hardening** of Israel [(ch9-11)](# "ref")
-1. _Walk_: Rational **Service** to God [(ch12-15)](# "ref")
+## Overview of Romans 羅馬書 
+
+1. _Need_: Man's **Sin** + God's **Wrath** [(ch1-3a)](# "ref") </br>
+  需要神的救恩： 因為人的罪跟 神的憤怒
+1. _Means_: Saved by **Faith** in **Grace** [(ch3a-5)](# "ref") </br>
+  如何得到 神的救恩：因著信在恩典中得救
+1. _Life_: **Dead** in the Body, **Alive** in the Spirit [(ch6-8)](# "ref") </br>
+  得救的生命：肉體致死, 但是靈性復活
+1. _Message_: Partial **Hardening** of Israel [(ch9-11)](# "ref") </br>
+  救恩的信息：部分以色列內心剛硬
+1. _Walk_: Rational **Service** to God [(ch12-15)](# "ref") </br>
+  與神同行：以神的真理服事敬拜祂
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **Need** for salvation
@@ -95,9 +116,14 @@ as it is written, <br>
 ---
 <!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="outline" id="outline" -->
 ## Romans 5: Grace Victorious
-1. **Pride**: in Our Future Hope <br> and Present Suffering [(1-5)](# "ref")
-1. **Peace**: in the Father's Love [(6-11)](# "ref")
-1. **Power**: in Grace which <br> Surpasses Sin [(12-21)](# "ref")
+1. **Pride**: in Our Future Hope <br> and Present Suffering [(1-5)](# "ref") <br>
+  主裡誇口：在我們未來的盼望跟現在的患難裡
+1. **Peace**: in the Father's Love [(6-11)](# "ref") <br>
+  主裡平安：在天父的愛裡
+1. **Power**: in Grace which <br> Surpasses Sin [(12-21)](# "ref") <br>
+  主的大能: 在超越罪惡的恩典中
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Bc of how Christ **saved** us, we're not just **surviving**
@@ -113,21 +139,33 @@ Therefore, since we have been **justified** by faith,<br>
 we have **peace** with God <br>
 through our Lord Jesus Christ.
 
-[2](# "ref")
-Through him we have also obtained **access** <br>
-by faith into this **grace** in which we stand, 
+我們既因信稱義，<br>
+就藉著我們的主耶穌基督<br>
+得與神相和。
 
-and we **rejoice** in hope of the glory of God. 
-
-[Romans 5:1-2 (ESV)](# "ref")
+[Romans 5:1 (ESV/CUV) (p.1/2)](# "ref")
 [Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 >>>
-+ all 1 **sentence**
++ v1-2 all 1 **sentence**
 + "justified": made/decreed to be **righteous**
   + promise to **Abe** + all w/same faith
 + "peace": **reconciled** w/God
   + saved from righteous **wrath**
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+Through him we have also obtained **access** <br>
+by faith into this **grace** in which we stand, <br>
+and we **rejoice** in hope of the glory of God. 
+
+我們又藉著他，<br>
+因信得進入現在所站的這恩典中，<br>
+並且歡歡喜喜盼望神的榮耀。
+
+[Romans 5:2 (ESV/CUV) (p.2/2)](# "ref")
+
+>>>
 + "grace": our current **status** before God
   + access: **led** forth/into, not earned
   + have obtained: perfective, already **completed**
@@ -140,19 +178,28 @@ and we **rejoice** in hope of the glory of God.
 <!-- .slide: <%= bg("unsplash-saGbrA6s8g0-underwater.jpg") %>  -->
 Not only that, but we rejoice in our **sufferings**, <br>
 knowing that suffering produces **endurance**, <br>
-[4](# "ref")
 and endurance produces **character**, <br>
 and character produces **hope**, <br>
-[5](# "ref")
-and hope does not put us to shame, 
 
+不但如此，就是在患難中也是歡歡喜喜的；<br>
+因為知道患難生忍耐，<br>
+忍耐生老練，老練生盼望；
+
+[Romans 5:3-4 (ESV/CUV) (p.1/2)](# "ref")
+[Sven Scheuermeier](https://unsplash.com/photos/saGbrA6s8g0 "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-saGbrA6s8g0-underwater.jpg") %>  -->
+and hope does not put us to shame, <br>
 because God's **love** has been poured <br>
 into our hearts through the Holy Spirit <br>
 who has been given to us.
 
-[Romans 5:3-5 (ESV)](# "ref")
-[Sven Scheuermeier](https://unsplash.com/photos/saGbrA6s8g0 "caption")
+盼望不至於羞恥，<br>
+因為所賜給我們的聖靈<br>
+將神的愛澆灌在我們心裡。
 
+[Romans 5:5 (ESV/CUV) (p.2/2)](# "ref")
 >>>
 + suff: not bc **struggle** to achieve own **goals**
   + but bc we desire to be **holy**
@@ -169,7 +216,10 @@ In this you **rejoice**, though now <br>
 for a **little while**, if necessary, <br>
 you have been **grieved** by various trials, 
 
-[1 Peter 1:6-7 (ESV) (p.1/2)](# "ref")
+因此，你們是大有喜樂；<br>
+但如今，在百般的試煉中暫時憂愁，
+
+[1 Peter 1:6 (ESV/CUV) (p.1/2)](# "ref")
 [Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
@@ -179,12 +229,15 @@ you have been **grieved** by various trials,
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 so that the **tested genuineness** <br>
 of your faith — more precious than **gold** <br>
-that perishes though it is tested by fire — 
-
+that perishes though it is tested by fire — <br>
 may be found to result in **praise** and glory <br>
 and honor at the **revelation** of Jesus Christ.
 
-[1 Peter 1:6-7 (ESV) (p.2/2)](# "ref")
+叫你們的信心既被試驗，<br>
+就比那被火試驗仍然能壞的金子更顯寶貴，<br>
+可以在耶穌基督顯現的時候得著稱讚、榮耀、尊貴。
+
+[1 Peter 1:7 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + tested: **proof** ("character" in Rom 5:4)
@@ -203,6 +256,7 @@ and honor at the **revelation** of Jesus Christ.
 ---
 <!-- .slide: data-background="white" -->
 # What **reasons** do I have to be **proud**?
+# 我有什麼原因可以誇口？
 
 >>>
 + **Future** hope to see God's glory
@@ -235,14 +289,22 @@ and honor at the **revelation** of Jesus Christ.
 For while we were still weak, <br>
 at the right time **Christ died** for the ungodly. 
 
-[7](# "ref")
+因我們還軟弱的時候，<br>
+基督就按所定的日期為罪人死。
+
+[Romans 5:6 (ESV/CUV)](# "ref")
+["The stoning of St. Stephen", Gabriel-Jules Thomas, 1863. Paris](https://commons.wikimedia.org/wiki/File:Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg "caption")
+
+---
+<!-- .slide: <%= bg("wm-Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg") %> -->
 For one will scarcely die for a **righteous** person<br>
 -- though perhaps for a good person <br>
 one would dare even to die --
 
-[Romans 5:6-7 (ESV)](# "ref")
-["The stoning of St. Stephen", Gabriel-Jules Thomas, 1863. Paris](https://commons.wikimedia.org/wiki/File:Stoning_St_Stephen_Saint-Etienne-du-Mont.jpg "caption")
+為義人死，是少有的；<br>
+為仁人死、或者有敢做的。
 
+[Romans 5:7 (ESV/CUV)](# "ref")
 >>>
 + v7: not **contrast** but **appositive**:
 + maybe you might **die** for a person / cause
@@ -256,7 +318,10 @@ one would dare even to die --
 but God shows his **love** for us in that <br>
 while we were still **sinners**, Christ died for us. 
 
-[Romans 5:8 (ESV)](# "ref")
+惟有基督在我們還作罪人的時候為我們死，<br>
+神的愛就在此向我們顯明了。
+
+[Romans 5:8 (ESV/CUV)](# "ref")
 [Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
 
 >>>
@@ -276,15 +341,24 @@ Since, therefore, we have now been <br>
 **justified** by his blood, much more shall we be <br>
 **saved** by him from the **wrath** of God. 
 
-[10](# "ref")
-For if while we were **enemies** we were <br>
-**reconciled** to God by the death of his Son, 
+現在我們既靠著他的血稱義，<br>
+就更要藉著他免去神的忿怒。
 
+[Romans 5:9 (ESV/CUV)](# "ref")
+[Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
+For if while we were **enemies** we were <br>
+**reconciled** to God by the death of his Son, <br>
 much more, now that we are reconciled, <br>
 shall we be **saved** by his life. 
 
-[Romans 5:9-10 (ESV)](# "ref")
-[Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
+因為我們作仇敵的時候，<br>
+且藉著神兒子的死，得與神和好；<br>
+既已和好，就更要因他的生得救了。
+
+[Romans 5:10 (ESV/CUV)](# "ref")
 
 >>>
 + Yes, we **owe** an indescribable **debt** to God
@@ -308,6 +382,10 @@ More than that, we also **rejoice** in God <br>
 through our Lord Jesus Christ, <br>
 through whom we have now received **reconciliation**.
 
+不但如此，我們既藉著<br>
+我主耶穌基督得與神和好，<br>
+也就藉著他以神為樂。
+
 [Romans 5:11 (ESV)](# "ref")
 [Milada Vigerova](https://unsplash.com/photos/iQWvVYMtv1k "caption")
 
@@ -323,6 +401,7 @@ through whom we have now received **reconciliation**.
 ---
 <!-- .slide: data-background="white" -->
 # How do I **know** <br> that the Father **loves** me?
+# 我如何知道天父愛我？
 
 >>>
 + Bc I'm **lovable**?  Nope!
@@ -352,10 +431,13 @@ through whom we have now received **reconciliation**.
 ---
 <!-- .slide: <%= bg("unsplash-zvf7cZ0PC20-bare_trees.jpg") %> -->
 Therefore, just as **sin** came into the world <br>
-through one **man**, and **death** through sin, 
+through one **man**, and **death** through sin, <br>
+and so death spread to **all** men because all sinned 
 
-and so death spread to **all** men <br>
-because all sinned -- 
+這就如罪是從一人入了世界，<br>
+死又是從罪來的；<br>
+於是死就臨到眾人，<br>
+因為眾人都犯了罪。
 
 [Romans 5:12 (ESV)](# "ref")
 [Kota Garut, Indonesia. Dikaseva](https://unsplash.com/photos/zvf7cZ0PC20 "caption")
@@ -373,9 +455,11 @@ because all sinned --
 ---
 <!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
 for **sin** indeed was in the world <br>
-**before** the law was given, 
-
+**before** the law was given, <br>
 but sin is not **counted** where there is no law. 
+
+沒有律法之先，罪已經在世上；<br>
+但沒有律法，罪也不算罪。
 
 [Romans 5:13 (ESV)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/fgmf2Eyrwm4 "caption")
@@ -390,11 +474,14 @@ but sin is not **counted** where there is no law.
 
 ---
 <!-- .slide: <%= bg("unsplash-ghbepAO7BCs-vancouver_street.jpg") %> -->
-Yet **death reigned** from Adam to Moses, 
-
+Yet **death reigned** from Adam to Moses, <br>
 even over those whose sinning was <br>
 not like the **transgression of Adam**, <br>
 who was a type of the one who was to come.
+
+然而從亞當到摩西，死就作了王，<br>
+連那些不與亞當犯一樣罪過的，也在他的權下。<br>
+亞當乃是那以後要來之人的豫像。
 
 [Romans 5:14 (ESV)](# "ref")
 [Vancouver, BC.  Aditya Chinchure](https://unsplash.com/photos/ghbepAO7BCs "caption")
@@ -414,11 +501,15 @@ who was a type of the one who was to come.
 + But there's **hope**!
 
 ---
-## 3. Grace Greater than Sin
-1. God's grace far **exceeds** <br> the consequences of sin [(v15)](# "ref")
-1. Jesus' death covers **all** our sins [(v16)](# "ref")
-1. God's grace will bring a new **kingdom** [(v17)](# "ref")
-1. Christ's obedience changes <br> our **standing** before God [(v18-19)](# "ref")
+## 3. Grace Greater than Sin 超越罪惡的恩典
+1. God's grace far **exceeds** <br> the consequences of sin [(v15)](# "ref") <br>
+  神的恩典遠超過罪的後果
+1. Jesus' death covers **all** our sins [(v16)](# "ref") <br>
+  耶穌的死遮蓋了我們所有的罪
+1. God's grace will bring a new **kingdom** [(v17)](# "ref") <br>
+  神的恩典會帶來新的國度
+1. Christ's obedience changes <br> our **standing** before God [(v18-19)](# "ref") <br>
+  基督的順服改變了我們在 神面前的地位
 
 >>>
 + repeatedly draws **parallel** between
@@ -433,8 +524,8 @@ who was a type of the one who was to come.
 <!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> -->
 But the free **gift** is not like the trespass. 
 
-For if many **died** through one man's trespass, 
 
+For if many **died** through one man's trespass, 
 much more have the **grace** of God <br>
 and the free gift by the grace of that <br>
 one man Jesus Christ **abounded** for many. 
