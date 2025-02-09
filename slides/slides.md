@@ -115,7 +115,7 @@ as it is written, <br>
 
 ---
 <!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="outline" id="outline" -->
-## Romans 羅馬書 5: Grace Victorious
+## Romans 羅馬書 5
 1. **Pride**: Future Hope, Present Suffering [(1-5)](# "ref") <br>
   主裡誇口：在我們未來的盼望跟現在的患難裡
 1. **Peace**: in the Father's Love [(6-11)](# "ref") <br>
@@ -273,11 +273,11 @@ and honor at the **revelation** of Jesus Christ.
 
 ---
 <!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="outline" -->
-## Romans 羅馬書 5: Grace Victorious
+## Romans 羅馬書 5
 1. Pride: Future Hope, Present Suffering [(1-5)](# "ref") <br>
   主裡誇口：在我們未來的盼望跟現在的患難裡
-1. **Peace: in the Father's Love** [(6-11)](# "ref") <br>
-  **主裡平安：在天父的愛裡**
+1. **Peace**: in the Father's Love [(6-11)](# "ref") <br>
+  **主裡平安**：在天父的愛裡
 1. Power: in Grace which Surpasses Sin [(12-21)](# "ref") <br>
   主的大能: 在超越罪惡的恩典中
 
@@ -423,13 +423,13 @@ through whom we have now received **reconciliation**.
 
 ---
 <!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="outline" -->
-## Romans 羅馬書 5: Grace Victorious
+## Romans 羅馬書 5
 1. Pride: Future Hope, Present Suffering [(1-5)](# "ref") <br>
   主裡誇口：在我們未來的盼望跟現在的患難裡
 1. Peace: in the Father's Love [(6-11)](# "ref") <br>
   主裡平安：在天父的愛裡
-1. **Power: in Grace which Surpasses Sin** [(12-21)](# "ref") <br>
-  **主的大能: 在超越罪惡的恩典中**
+1. **Power**: in Grace which Surpasses Sin [(12-21)](# "ref") <br>
+  **主的大能**: 在超越罪惡的恩典中
 
 >>>
 + In light of the **power** of God's love
