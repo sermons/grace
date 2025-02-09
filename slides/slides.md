@@ -274,9 +274,12 @@ and honor at the **revelation** of Jesus Christ.
 ---
 <!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="outline" -->
 ## Romans 5: Grace Victorious
-1. Pride: in Our Future Hope <br> and Present Suffering [(1-5)](# "ref")
-1. **Peace: in the Father's Love** [(6-11)](# "ref")
-1. Power: in Grace which <br> Surpasses Sin [(12-21)](# "ref")
+1. Pride: Future Hope, Present Suffering [(1-5)](# "ref") <br>
+  主裡誇口：在我們未來的盼望跟現在的患難裡
+1. **Peace: in the Father's Love** [(6-11)](# "ref") <br>
+  **主裡平安：在天父的愛裡**
+1. Power: in Grace which Surpasses Sin [(12-21)](# "ref") <br>
+  主的大能: 在超越罪惡的恩典中
 
 >>>
 + But I **hope** and hope that God will
@@ -404,7 +407,7 @@ through whom we have now received **reconciliation**.
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I **know** that <br> the Father **loves** me?
+# How do I **know** that the Father **loves** me?
 # 我如何知道<br>天父愛我？
 
 >>>
@@ -421,9 +424,12 @@ through whom we have now received **reconciliation**.
 ---
 <!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> class="outline" -->
 ## Romans 5: Grace Victorious
-1. Pride: in Our Future Hope <br> and Present Suffering [(1-5)](# "ref")
-1. Peace: in the Father's Love [(6-11)](# "ref")
-1. **Power: in Grace which** <br> **Surpasses Sin** [(12-21)](# "ref")
+1. Pride: Future Hope, Present Suffering [(1-5)](# "ref") <br>
+  主裡誇口：在我們未來的盼望跟現在的患難裡
+1. Peace: in the Father's Love [(6-11)](# "ref") <br>
+  主裡平安：在天父的愛裡
+1. **Power: in Grace which Surpasses Sin** [(12-21)](# "ref") <br>
+  **主的大能: 在超越罪惡的恩典中**
 
 >>>
 + In light of the **power** of God's love
@@ -506,7 +512,6 @@ who was a type of the one who was to come.
 + But there's **hope**!
 
 ---
-## 3. Grace Greater than Sin 超越罪惡的恩典
 1. God's grace far **exceeds** sin's harm [(v15)](# "ref") <br>
   神的恩典遠超過罪的後果
 1. Jesus' death covers **all** our sins [(v16)](# "ref") <br>
@@ -516,7 +521,7 @@ who was a type of the one who was to come.
 1. Christ's obedience changes <br> our **standing** before God [(v18-19)](# "ref") <br>
   基督的順服改變了我們在 <br> 神面前的地位
 
-<!-- .element: style="font-size: 0.8rem" -->
+<!-- .element: style="font-size: 0.85rem" -->
 
 >>>
 + repeatedly draws **parallel** between
@@ -529,8 +534,10 @@ who was a type of the one who was to come.
 
 ---
 <!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> -->
-1. God's grace far **exceeds** sin's harm [(v15)](# "ref") <br>
-  神的恩典遠超過罪的後果
+1. (God's grace far **exceeds** sin's harm) <br>
+  (神的恩典遠超過罪的後果)
+
+______
 
 But the free **gift** is not like the trespass. 
 
@@ -541,6 +548,7 @@ But the free **gift** is not like the trespass.
 
 >>>
 + (1) God's grace is **bigger** than death from sin
+
 ---
 <!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> -->
 For if many **died** through one man's trespass, 
@@ -566,8 +574,10 @@ one man Jesus Christ **abounded** for many.
 
 ---
 <!-- .slide: <%= bg("unsplash-jG1z5o7NCq4-group_silhouette.jpg") %> -->
-2. Jesus' death covers **all** our sins [(v16)](# "ref") <br>
-  耶穌的死遮蓋了我們所有的罪
+2. (Jesus' death covers **all** our sins) <br>
+  (耶穌的死遮蓋了我們所有的罪)
+
+______
 
 And the free gift is not like <br>
 the result of that **one man's sin**. 
@@ -604,8 +614,10 @@ brought justification.
 
 ---
 <!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> -->
-3. God's grace brings a new **kingdom** [(v17)](# "ref") <br>
-  神的恩典會帶來新的國度
+3. (God's grace brings a new **kingdom**) <br>
+  (神的恩典會帶來新的國度)
+
+______
 
 For if, because of one man's trespass, <br>
 **death reigned** through that one man, 
