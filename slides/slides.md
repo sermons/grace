@@ -32,8 +32,7 @@
 
 ______
 + Holy Father, You call us to 
-+ worship You not at specified **locations**
-  + but in **spirit** + **truth**
++ worship You in **spirit** + **truth**
 + W/every **fibre** of being: draw **near** to You
   + **rest** deeply in Your love
 + W/all our **mind** + strength
@@ -74,12 +73,12 @@ as it is written, <br>
 [Romans 羅馬書 1:17 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
-+ God's **power** not only in righteous **judgment**
++ God's **power**: not only right. **judgment**
   + but also abundant **grace**
-+ Our **salvation** not only from own **mistakes**
++ We need to be **saved**: not only own **mistakes**
   + but God's coming **wrath**
-+ God's election of **Israel** and **mystery** of 
-  + gospel brought to **ends of earth**
++ God's election of **Israel**, and **mystery** 
+  + that gospel sent to **ends of earth**
 + The **righteousness** not earned by own piety
   + but **granted** by God 
   + and **obtained** by faith
@@ -189,7 +188,7 @@ and character produces **hope**, <br>
 [Sven Scheuermeier](https://unsplash.com/photos/saGbrA6s8g0 "caption")
 
 >>>
-+ suff: not bc **struggle** to achieve own **goals**
++ suff: not **obstacles** to achieve own **goals**
   + but bc we desire to be **holy**
   + but inhabit world/body **broken** by sin + death
 + **perseverance** (remain under)
@@ -263,6 +262,8 @@ and honor at the **revelation** of Jesus Christ.
 # 我有什麼原因<br>可以誇口？
 
 >>>
++ Not **own** achievements / progress 
++ Not **group** belong to: family, sports team, nation 
 + **Future** hope to see God's glory
   + and **inherit** it, bc
 + **Present** hope amidst suffering bc of sin
@@ -315,12 +316,12 @@ one would dare even to die --
 
 [Romans 羅馬書 5:7 (ESV/CUV)](# "ref")
 >>>
-+ v7: not **contrast** but **appositive**:
-+ maybe you might **die** for a person / cause
++ v7a+b: not **contrast** but **appositive**:
++ **maybe** you might die for a person / cause
   + if you felt it was **worthwhile**:
 + if your **death** would call attention to 
   + the **worthiness** of the person / cause
-+ emph contrast w/v6/8: for the **ungodly**, sinners
++ contrast w/v6+8: for the **ungodly**, sinners
 
 ---
 <!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
@@ -402,9 +403,20 @@ through whom we have now received **reconciliation**.
 + "rejoice": again, **boast**, pride, lift up head
 + pride not in **selves** but **Christ**
   + who **bought** our reconciliation
-+ He is our **peace**, who has broken down 
-  + the wall of **enmity**
-+ between man to man
++ As **Ephesians** puts it:
+
+---
+For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility
+
+因 他 使 我 們 和 睦 （ 原 文 作 ： 因 他 是 我 們 的 和 睦 ） ， 將 兩 下 合 而 為 一 ， 拆 毀 了 中 間 隔 斷 的 牆 
+
+[Ephesians 以弗所書 2:14 (ESV/CUV)](# "ref") 
+
+>>>
++ Not just that Christ **gives** us peace 
+  + He **is** our peace
++ broken down wall of **enmity**
+  + between man to man
   + between man and God
 
 ---
@@ -441,6 +453,7 @@ through whom we have now received **reconciliation**.
 + We can trust in the boundless **abundance**
   + of His **grace**
 + which **overwhelms** sin and the curse of death
++ First, the **bad** news:
 
 ---
 <!-- .slide: <%= bg("unsplash-zvf7cZ0PC20-bare_trees.jpg") %> -->
@@ -513,7 +526,7 @@ who was a type of the one who was to come.
   + only **apply** to Christians?
 + Even if diff **culture** / relig bg
   + **sin** + death still reign in heart (ch2)
-+ But there's **hope**!
++ But there's **hope**! The **good** news:
 
 ---
 1. God's grace far **exceeds** sin's harm [(v15)](# "ref") <br>
