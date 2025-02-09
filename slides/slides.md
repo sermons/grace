@@ -29,10 +29,7 @@
 + **Inquire** deeply into Scriptures
   + behold **Lamb** of God
 
----
-(prayer)
-
->>>
+______
 + Holy Father, You call us to 
 + worship You not at specified **locations**
   + but in **spirit** + **truth**
